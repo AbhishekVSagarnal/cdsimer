@@ -1,0 +1,12 @@
+Flask==2.2.5
+gunicorn==20.1.0
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.2
+Flask-WTF==1.1.1
+WTForms==3.0.1
+Flask-Migrate==4.0.4
+Flask-RESTful==0.3.10
+requests==2.31.0
+psycopg2-binary==2.9.6  # If using PostgreSQL
+pymysql==1.1.0          # If using MySQL
+python-dotenv==1.0.1    # For environment variables

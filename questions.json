@@ -1,0 +1,176 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "DEPRESSED MOOD (sadness, hopeless, helpless, worthless)",
+        "options": [
+           {"score": 0, "text": "Absent."},
+           {"score": 1, "text": "These feeling states indicated only on questioning."},
+           {"score": 2, "text": "These feeling states spontaneously reported verbally."},
+           {"score": 3, "text": "Communicates feeling states non-verbally."},
+           {"score": 4, "text": "Patient reports virtually only these feeling states."}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "FEELINGS OF GUILT",
+        "options": [
+           {"score": 0, "text": "Absent."},
+           {"score": 1, "text": "Self reproach, feels he/she has let people down."},
+           {"score": 2, "text": "Ideas of guilt or rumination over past errors."},
+           {"score": 3, "text": "Present illness is a punishment. Delusions of guilt."},
+           {"score": 4, "text": "Hears accusatory voices or threatening hallucinations."}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "SUICIDE",
+        "options": [
+           {"score": 0, "text": "Absent."},
+           {"score": 1, "text": "Feels life is not worth living."},
+           {"score": 2, "text": "Wishes he/she were dead."},
+           {"score": 3, "text": "Ideas or gestures of suicide."},
+           {"score": 4, "text": "Attempts at suicide."}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "INSOMNIA: EARLY IN THE NIGHT",
+        "options": [
+           {"score": 0, "text": "No difficulty falling asleep."},
+           {"score": 1, "text": "Occasional difficulty falling asleep."},
+           {"score": 2, "text": "Nightly difficulty falling asleep."}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "INSOMNIA: MIDDLE OF THE NIGHT",
+        "options": [
+           {"score": 0, "text": "No difficulty."},
+           {"score": 1, "text": "Restless and disturbed during the night."},
+           {"score": 2, "text": "Waking during the night."}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "INSOMNIA: EARLY HOURS OF THE MORNING",
+        "options": [
+           {"score": 0, "text": "No difficulty."},
+           {"score": 1, "text": "Waking in early hours but goes back to sleep."},
+           {"score": 2, "text": "Unable to fall asleep again if gets out of bed."}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "WORK AND ACTIVITIES",
+        "options": [
+           {"score": 0, "text": "No difficulty."},
+           {"score": 1, "text": "Thoughts/feelings of incapacity or fatigue."},
+           {"score": 2, "text": "Loss of interest in activities or work."},
+           {"score": 3, "text": "Decrease in time spent or productivity."},
+           {"score": 4, "text": "Stopped working because of illness."}
+        ]
+      },
+      {
+        "id": 8,
+        "question": "RETARDATION (slowness of thought, speech, etc.)",
+        "options": [
+           {"score": 0, "text": "Normal speech and thought."},
+           {"score": 1, "text": "Slight retardation during interview."},
+           {"score": 2, "text": "Obvious retardation during interview."},
+           {"score": 3, "text": "Interview difficult."},
+           {"score": 4, "text": "Complete stupor."}
+        ]
+      },
+      {
+        "id": 9,
+        "question": "AGITATION",
+        "options": [
+           {"score": 0, "text": "None."},
+           {"score": 1, "text": "Fidgetiness."},
+           {"score": 2, "text": "Playing with hands, hair, etc."},
+           {"score": 3, "text": "Moving about, can't sit still."},
+           {"score": 4, "text": "Hand wringing, nail biting, etc."}
+        ]
+      },
+      {
+        "id": 10,
+        "question": "ANXIETY PSYCHIC",
+        "options": [
+           {"score": 0, "text": "No difficulty."},
+           {"score": 1, "text": "Subjective tension and irritability."},
+           {"score": 2, "text": "Worrying about minor matters."},
+           {"score": 3, "text": "Apprehensive attitude."},
+           {"score": 4, "text": "Fears expressed without questioning."}
+        ]
+      },
+      {
+        "id": 11,
+        "question": "ANXIETY SOMATIC",
+        "options": [
+           {"score": 0, "text": "Absent."},
+           {"score": 1, "text": "Mild."},
+           {"score": 2, "text": "Moderate."},
+           {"score": 3, "text": "Severe."},
+           {"score": 4, "text": "Incapacitating."}
+        ]
+      },
+      {
+        "id": 12,
+        "question": "SOMATIC SYMPTOMS GASTRO-INTESTINAL",
+        "options": [
+           {"score": 0, "text": "None."},
+           {"score": 1, "text": "Loss of appetite but eating without prompting."},
+           {"score": 2, "text": "Difficulty eating without staff urging."}
+        ]
+      },
+      {
+        "id": 13,
+        "question": "GENERAL SOMATIC SYMPTOMS",
+        "options": [
+           {"score": 0, "text": "None."},
+           {"score": 1, "text": "Heaviness in limbs, back, or head."},
+           {"score": 2, "text": "Any clear-cut symptom."}
+        ]
+      },
+      {
+        "id": 14,
+        "question": "GENITAL SYMPTOMS",
+        "options": [
+           {"score": 0, "text": "Absent."},
+           {"score": 1, "text": "Mild."},
+           {"score": 2, "text": "Severe."}
+        ]
+      },
+      {
+        "id": 15,
+        "question": "HYPOCHONDRIASIS",
+        "options": [
+           {"score": 0, "text": "Not present."},
+           {"score": 1, "text": "Self-absorption (bodily)."},
+           {"score": 2, "text": "Preoccupation with health."},
+           {"score": 3, "text": "Frequent complaints/requests for help."},
+           {"score": 4, "text": "Hypochondriacal delusions."}
+        ]
+      },
+      {
+        "id": 16,
+        "question": "LOSS OF WEIGHT",
+        "options": [
+           {"score": 0, "text": "No weight loss."},
+           {"score": 1, "text": "Probable weight loss (patient report)."},
+           {"score": 2, "text": "Definite weight loss (patient report)."}
+        ]
+      },
+      {
+        "id": 17,
+        "question": "INSIGHT",
+        "options": [
+           {"score": 0, "text": "Acknowledges being depressed and ill."},
+           {"score": 1, "text": "Acknowledges illness but attributes cause to external factors."},
+           {"score": 2, "text": "Denies being ill at all."}
+        ]
+      }
+    ]
+  }
+  
