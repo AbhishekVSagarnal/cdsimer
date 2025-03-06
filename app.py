@@ -830,11 +830,12 @@ RESULT_TEMPLATE = '''
   <a href="{{ url_for('restart') }}" class="btn-action">
     ↻ Restart Assessment
   </a>
+  <footer>
+        <p>Project by AVS</p>
+    </footer>
+
 </div>
 
-<footer class="text-center mt-5 mb-3">
-  <p>Project by AVS</p>
-</footer>
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
