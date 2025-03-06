@@ -459,8 +459,7 @@ QUESTION_TEMPLATE = '''
 </div>
 
 <footer class="text-center mt-5 mb-3">
-  <p>Project by Abhishek V Sagarnal</p>
-  <p><a href="https://www.linkedin.com/in/abhishekvsagarnal/" target="_blank">Connect with me on LinkedIn</a></p>
+  <p>Project by AVS</p>
 </footer>
 
 <!-- Bootstrap JS -->
@@ -834,8 +833,7 @@ RESULT_TEMPLATE = '''
 </div>
 
 <footer class="text-center mt-5 mb-3">
-  <p>Project by Abhishek V Sagarnal</p>
-  <p><a href="https://www.linkedin.com/in/abhishekvsagarnal/" target="_blank">Connect with me on LinkedIn</a></p>
+  <p>Project by AVS</p>
 </footer>
 
 <!-- Bootstrap JS -->
